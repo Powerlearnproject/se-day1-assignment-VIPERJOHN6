@@ -83,12 +83,36 @@ Answers:
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+ANSWER:
+1. Unit Testing  
+   - What it is: Testing small parts of the code (like a single function) to make sure they work on their own.  
+   - Why it's important: It catches problems early before you combine everything together.  
+
+2. Integration Testing
+   - What it is*: Testing how different parts of the software work together, like checking if the app connects well with the database.  
+   - Why it's important: It ensures that the pieces of code that work individually also work well when put together.  
+
+3. System Testing 
+   - What it is: Testing the whole system to make sure everything works as a complete product.  
+   - Why it's important: It makes sure that the software works properly in real life, like how users will actually use it.  
+
+5. Acceptance Testing 
+   - What it is: Testing to see if the software meets the user’s needs and expectations, usually before it's released.  
+   - Why it's important: It confirms that the software is ready for the user and will do what they want it to do.  
 
 
 #Part 2: Introduction to AI and Prompt Engineering
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-
+ANSWER: Prompt Engineering is the process of designing the right input or question to get the best response from an AI model. It’s about knowing how to phrase things clearly and effectively so the AI understands what you're asking.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+ANSWER:### 
+Improved Prompt:  
+"Can you provide a brief overview of the different breeds of dogs, including their size, temperament, and common health issues?"
+
+Why the Improved Prompt is Better:  
+- Clear: It specifies exactly what you want to know about dogs (breeds, size, temperament, health).  
+- Specific: It tells the AI the key details to focus on (size, temperament, health).  
+- Concise: It's short but provides enough direction to get a focused answer.
